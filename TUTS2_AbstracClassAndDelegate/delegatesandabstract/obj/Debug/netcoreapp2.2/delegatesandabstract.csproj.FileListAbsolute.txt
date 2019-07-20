@@ -1,0 +1,11 @@
+P:\SEESHARPIFY\challenges\delegatesandabstract\delegatesandabstract\bin\Debug\netcoreapp2.2\delegatesandabstract.deps.json
+P:\SEESHARPIFY\challenges\delegatesandabstract\delegatesandabstract\bin\Debug\netcoreapp2.2\delegatesandabstract.runtimeconfig.json
+P:\SEESHARPIFY\challenges\delegatesandabstract\delegatesandabstract\bin\Debug\netcoreapp2.2\delegatesandabstract.runtimeconfig.dev.json
+P:\SEESHARPIFY\challenges\delegatesandabstract\delegatesandabstract\bin\Debug\netcoreapp2.2\delegatesandabstract.dll
+P:\SEESHARPIFY\challenges\delegatesandabstract\delegatesandabstract\bin\Debug\netcoreapp2.2\delegatesandabstract.pdb
+P:\SEESHARPIFY\challenges\delegatesandabstract\delegatesandabstract\obj\Debug\netcoreapp2.2\delegatesandabstract.csprojAssemblyReference.cache
+P:\SEESHARPIFY\challenges\delegatesandabstract\delegatesandabstract\obj\Debug\netcoreapp2.2\delegatesandabstract.csproj.CoreCompileInputs.cache
+P:\SEESHARPIFY\challenges\delegatesandabstract\delegatesandabstract\obj\Debug\netcoreapp2.2\delegatesandabstract.AssemblyInfoInputs.cache
+P:\SEESHARPIFY\challenges\delegatesandabstract\delegatesandabstract\obj\Debug\netcoreapp2.2\delegatesandabstract.AssemblyInfo.cs
+P:\SEESHARPIFY\challenges\delegatesandabstract\delegatesandabstract\obj\Debug\netcoreapp2.2\delegatesandabstract.dll
+P:\SEESHARPIFY\challenges\delegatesandabstract\delegatesandabstract\obj\Debug\netcoreapp2.2\delegatesandabstract.pdb

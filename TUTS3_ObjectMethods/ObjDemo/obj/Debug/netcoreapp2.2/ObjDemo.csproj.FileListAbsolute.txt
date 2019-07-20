@@ -1,0 +1,11 @@
+P:\SEESHARPIFY\challenges\ObjDemo\ObjDemo\bin\Debug\netcoreapp2.2\ObjDemo.deps.json
+P:\SEESHARPIFY\challenges\ObjDemo\ObjDemo\bin\Debug\netcoreapp2.2\ObjDemo.runtimeconfig.json
+P:\SEESHARPIFY\challenges\ObjDemo\ObjDemo\bin\Debug\netcoreapp2.2\ObjDemo.runtimeconfig.dev.json
+P:\SEESHARPIFY\challenges\ObjDemo\ObjDemo\bin\Debug\netcoreapp2.2\ObjDemo.dll
+P:\SEESHARPIFY\challenges\ObjDemo\ObjDemo\bin\Debug\netcoreapp2.2\ObjDemo.pdb
+P:\SEESHARPIFY\challenges\ObjDemo\ObjDemo\obj\Debug\netcoreapp2.2\ObjDemo.csprojAssemblyReference.cache
+P:\SEESHARPIFY\challenges\ObjDemo\ObjDemo\obj\Debug\netcoreapp2.2\ObjDemo.csproj.CoreCompileInputs.cache
+P:\SEESHARPIFY\challenges\ObjDemo\ObjDemo\obj\Debug\netcoreapp2.2\ObjDemo.AssemblyInfoInputs.cache
+P:\SEESHARPIFY\challenges\ObjDemo\ObjDemo\obj\Debug\netcoreapp2.2\ObjDemo.AssemblyInfo.cs
+P:\SEESHARPIFY\challenges\ObjDemo\ObjDemo\obj\Debug\netcoreapp2.2\ObjDemo.dll
+P:\SEESHARPIFY\challenges\ObjDemo\ObjDemo\obj\Debug\netcoreapp2.2\ObjDemo.pdb
