@@ -1,0 +1,11 @@
+P:\SEESHARPIFY\trainings\InterfacesDemo\InterfacesDemo\bin\Debug\netcoreapp2.2\InterfacesDemo.deps.json
+P:\SEESHARPIFY\trainings\InterfacesDemo\InterfacesDemo\bin\Debug\netcoreapp2.2\InterfacesDemo.runtimeconfig.json
+P:\SEESHARPIFY\trainings\InterfacesDemo\InterfacesDemo\bin\Debug\netcoreapp2.2\InterfacesDemo.runtimeconfig.dev.json
+P:\SEESHARPIFY\trainings\InterfacesDemo\InterfacesDemo\bin\Debug\netcoreapp2.2\InterfacesDemo.dll
+P:\SEESHARPIFY\trainings\InterfacesDemo\InterfacesDemo\bin\Debug\netcoreapp2.2\InterfacesDemo.pdb
+P:\SEESHARPIFY\trainings\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.2\InterfacesDemo.csprojAssemblyReference.cache
+P:\SEESHARPIFY\trainings\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.2\InterfacesDemo.csproj.CoreCompileInputs.cache
+P:\SEESHARPIFY\trainings\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.2\InterfacesDemo.AssemblyInfoInputs.cache
+P:\SEESHARPIFY\trainings\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.2\InterfacesDemo.AssemblyInfo.cs
+P:\SEESHARPIFY\trainings\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.2\InterfacesDemo.dll
+P:\SEESHARPIFY\trainings\InterfacesDemo\InterfacesDemo\obj\Debug\netcoreapp2.2\InterfacesDemo.pdb
