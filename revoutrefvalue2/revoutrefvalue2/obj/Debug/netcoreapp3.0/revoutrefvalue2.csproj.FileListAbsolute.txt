@@ -1,0 +1,12 @@
+P:\SEESHARPIFY\trainings\revoutrefvalue2\revoutrefvalue2\bin\Debug\netcoreapp3.0\revoutrefvalue2.exe
+P:\SEESHARPIFY\trainings\revoutrefvalue2\revoutrefvalue2\bin\Debug\netcoreapp3.0\revoutrefvalue2.deps.json
+P:\SEESHARPIFY\trainings\revoutrefvalue2\revoutrefvalue2\bin\Debug\netcoreapp3.0\revoutrefvalue2.runtimeconfig.json
+P:\SEESHARPIFY\trainings\revoutrefvalue2\revoutrefvalue2\bin\Debug\netcoreapp3.0\revoutrefvalue2.runtimeconfig.dev.json
+P:\SEESHARPIFY\trainings\revoutrefvalue2\revoutrefvalue2\bin\Debug\netcoreapp3.0\revoutrefvalue2.dll
+P:\SEESHARPIFY\trainings\revoutrefvalue2\revoutrefvalue2\bin\Debug\netcoreapp3.0\revoutrefvalue2.pdb
+P:\SEESHARPIFY\trainings\revoutrefvalue2\revoutrefvalue2\obj\Debug\netcoreapp3.0\revoutrefvalue2.csprojAssemblyReference.cache
+P:\SEESHARPIFY\trainings\revoutrefvalue2\revoutrefvalue2\obj\Debug\netcoreapp3.0\revoutrefvalue2.csproj.CoreCompileInputs.cache
+P:\SEESHARPIFY\trainings\revoutrefvalue2\revoutrefvalue2\obj\Debug\netcoreapp3.0\revoutrefvalue2.AssemblyInfoInputs.cache
+P:\SEESHARPIFY\trainings\revoutrefvalue2\revoutrefvalue2\obj\Debug\netcoreapp3.0\revoutrefvalue2.AssemblyInfo.cs
+P:\SEESHARPIFY\trainings\revoutrefvalue2\revoutrefvalue2\obj\Debug\netcoreapp3.0\revoutrefvalue2.dll
+P:\SEESHARPIFY\trainings\revoutrefvalue2\revoutrefvalue2\obj\Debug\netcoreapp3.0\revoutrefvalue2.pdb
