@@ -1,0 +1,12 @@
+D:\PLIKI\SEESHARPIFY\trainings\Blockchain\Blockchain.Core\obj\Debug\net5.0\Blockchain.Core.csprojAssemblyReference.cache
+D:\PLIKI\SEESHARPIFY\trainings\Blockchain\Blockchain.Core\obj\Debug\net5.0\Blockchain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\PLIKI\SEESHARPIFY\trainings\Blockchain\Blockchain.Core\obj\Debug\net5.0\Blockchain.Core.AssemblyInfoInputs.cache
+D:\PLIKI\SEESHARPIFY\trainings\Blockchain\Blockchain.Core\obj\Debug\net5.0\Blockchain.Core.AssemblyInfo.cs
+D:\PLIKI\SEESHARPIFY\trainings\Blockchain\Blockchain.Core\obj\Debug\net5.0\Blockchain.Core.csproj.CoreCompileInputs.cache
+D:\PLIKI\SEESHARPIFY\trainings\Blockchain\Blockchain.Core\bin\Debug\net5.0\Blockchain.Core.deps.json
+D:\PLIKI\SEESHARPIFY\trainings\Blockchain\Blockchain.Core\bin\Debug\net5.0\Blockchain.Core.dll
+D:\PLIKI\SEESHARPIFY\trainings\Blockchain\Blockchain.Core\bin\Debug\net5.0\ref\Blockchain.Core.dll
+D:\PLIKI\SEESHARPIFY\trainings\Blockchain\Blockchain.Core\bin\Debug\net5.0\Blockchain.Core.pdb
+D:\PLIKI\SEESHARPIFY\trainings\Blockchain\Blockchain.Core\obj\Debug\net5.0\Blockchain.Core.dll
+D:\PLIKI\SEESHARPIFY\trainings\Blockchain\Blockchain.Core\obj\Debug\net5.0\ref\Blockchain.Core.dll
+D:\PLIKI\SEESHARPIFY\trainings\Blockchain\Blockchain.Core\obj\Debug\net5.0\Blockchain.Core.pdb

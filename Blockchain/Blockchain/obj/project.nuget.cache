@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HVlzqlY4OPCG7SM7WdNHe07Dk5ilB51M5/BE0BR2H5FhglquAkNcxkSCv8DTwlz9BaPjszpjQDfpJ5bp0L7auw==",
+  "dgSpecHash": "QUE7tGKTgGtj32O06kubwNLD8K+YxnXIsvAqgyxE2C8SQEEGRVAnLFC9805zhNvSC687jN3DH3Yh8KXl8lAPmA==",
   "success": true,
   "projectFilePath": "D:\\PLIKI\\SEESHARPIFY\\trainings\\Blockchain\\Blockchain\\Blockchain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\przem\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
